@@ -10,6 +10,8 @@
 		<!-- Define las clases que seran mappeadas al configurarse la conexion 
 			a la base de datos -->
 		<class>com.goca.projectjpa.entity.Disquera </class>
+		<class>com.goca.projectjpa.entity.Genero </class>
+		<class>com.goca.projectjpa.entity.SubGenero </class>
 
 		<properties>
 			<property name="jakarta.persistence.jdbc.driver"
